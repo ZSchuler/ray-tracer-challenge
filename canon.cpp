@@ -1,3 +1,5 @@
+// Simulates a 2D Projectile, and draws its points to the canvas.
+
 #include <iostream>
 #include "Chapter1/tuple.h"
 #include "Chapter2/color.h"
